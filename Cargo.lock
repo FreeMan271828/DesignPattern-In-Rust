@@ -3,5 +3,20 @@
 version = 3
 
 [[package]]
-name = "design-pattern-in-rust"
+name = "Observer"
 version = "0.1.0"
+
+[[package]]
+name = "Strategy"
+version = "0.1.0"
+
+[[package]]
+name = "iterator"
+version = "0.1.0"
+
+[[package]]
+name = "main"
+version = "0.1.0"
+dependencies = [
+ "Observer",
+]

@@ -3,7 +3,18 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/behavioral_patterns/Iterator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/behavioral_patterns/Observer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/behavioral_patterns/Strategy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/behavioral_patterns/Iterator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/behavioral_patterns/Observer/target" />
+      <excludeFolder url="file://$MODULE_DIR$/behavioral_patterns/Strategy/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
