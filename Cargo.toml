@@ -6,4 +6,4 @@ members = [
     "main",
     "behavioral_patterns/Iterator",
     "structural-patterns/Adapter"
-]
+, "behavioral_patterns/Template"]

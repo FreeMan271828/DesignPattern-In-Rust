@@ -15,6 +15,10 @@ name = "Strategy"
 version = "0.1.0"
 
 [[package]]
+name = "Template"
+version = "0.1.0"
+
+[[package]]
 name = "iterator"
 version = "0.1.0"
 

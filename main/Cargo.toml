@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 #Observer = {path = "../behavioral_patterns/Observer"}
 Adapter = {path = "../structural-patterns/Adapter"}
+#Template = {path = "../behavioral_patterns/Template"}
