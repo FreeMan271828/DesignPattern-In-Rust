@@ -4,5 +4,6 @@ members = [
     "behavioral_patterns/Observer",
     "behavioral_patterns/Strategy",
     "main",
-    "behavioral_patterns/Iterator"
+    "behavioral_patterns/Iterator",
+    "structural-patterns/Adapter"
 ]

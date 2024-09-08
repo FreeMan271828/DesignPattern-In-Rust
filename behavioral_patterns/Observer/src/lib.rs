@@ -6,12 +6,15 @@ impl SubjectTrait for Subject{
     fn new() -> Self{
         Subject{ _observer: Vec::new()}
     }
+
+    // todo
     fn attach(&mut self, observer: &dyn ObserverTrait) {
-        self._observer.push(*observer.clone()); // 注意这里需要克隆observer
+       // self._observer.push(observer.clone()); // 注意这里需要克隆observer
     }
 
+    // todo
     fn detach(&mut self, observer: &Box<dyn ObserverTrait>) {
-        self._observer.retain(|obs| !obs.equals(observer));
+        //self._observer.retain(|obs| !obs.equals(observer));
     }
 
     fn notify(&self) {

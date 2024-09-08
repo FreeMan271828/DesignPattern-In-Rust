@@ -54,7 +54,7 @@ pub mod iterator {
         }
     }
     impl<T> Iterator for ListIterator<T>{
-        type Item = (T);
+        type Item = T;
         fn first(&mut self) {
             self._current=0;
         }

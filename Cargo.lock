@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "Adapter"
+version = "0.1.0"
+
+[[package]]
 name = "Observer"
 version = "0.1.0"
 
@@ -18,5 +22,5 @@ version = "0.1.0"
 name = "main"
 version = "0.1.0"
 dependencies = [
- "Observer",
+ "Adapter",
 ]
