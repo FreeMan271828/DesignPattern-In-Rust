@@ -12,6 +12,9 @@
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/structural-patterns/Adapter/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/behavioral_patterns/Template/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structural-patterns/Proxy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structural-patterns/Proxy/remote_proxy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structural-patterns/Proxy/virtual_proxy/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/behavioral_patterns/Iterator/target" />
       <excludeFolder url="file://$MODULE_DIR$/behavioral_patterns/Observer/target" />

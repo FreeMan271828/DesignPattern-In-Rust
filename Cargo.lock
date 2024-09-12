@@ -26,5 +26,13 @@ version = "0.1.0"
 name = "main"
 version = "0.1.0"
 dependencies = [
- "Adapter",
+ "virtual_proxy",
 ]
+
+[[package]]
+name = "remote_proxy"
+version = "0.1.0"
+
+[[package]]
+name = "virtual_proxy"
+version = "0.1.0"

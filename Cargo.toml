@@ -6,4 +6,4 @@ members = [
     "main",
     "behavioral_patterns/Iterator",
     "structural-patterns/Adapter"
-, "behavioral_patterns/Template"]
+, "behavioral_patterns/Template","structural-patterns/Proxy/remote_proxy", "structural-patterns/Proxy/virtual_proxy"]
